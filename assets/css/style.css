@@ -162,13 +162,14 @@ div div div ul li {
     text-align: center;
     margin-top: 50px;
     margin-bottom: 30px;
+    style="width: 60%; height: 450px;
     
 }
 
 .form-group {
     margin-bottom: 50px;
+    style="width: 60%; height: 450px;
 }
-
 #rrss {
     display: flex;
     justify-content: right;
